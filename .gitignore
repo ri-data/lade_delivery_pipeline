@@ -1,7 +1,6 @@
 .env
 *.parquet
 delivery_five_cities.csv
-pickup_five_cities.csv
 lade_staging_clean/
 __pycache__/
 .ipynb_checkpoints/
