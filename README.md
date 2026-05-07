@@ -26,9 +26,6 @@ Last-mile delivery is the most expensive and complex part of logistics. Cainiao 
 - Provides complete data lineage every row traceable to its source file and pipeline run
 - Star schema design supports SLA monitoring, courier ranking, depot performance, and city comparisons out of the box
 
-**Production context:**
-At Uber — the Delivery Data Solutions team solves exactly this problem at scale. Every order placed, driver assigned, and delivery completed generates raw events. DDS transforms those events into canonical datasets that power fraud detection, demand forecasting, driver incentives, and operational dashboards.
----
 
 ## Dataset
 
