@@ -1,0 +1,9 @@
+pandas
+sqlalchemy
+mysql-connector-python
+pyarrow
+pyspark
+streamlit
+matplotlib
+python-dotenv
+urllib3
